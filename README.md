@@ -52,4 +52,4 @@ The dataset contains the following fields:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/books-to-scrape-data-pipeline.git
+git clone https://github.com/your-username/books-to-scrape-web-scraper.git
